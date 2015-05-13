@@ -32,6 +32,7 @@ public class MainActivity extends ActionBarActivity {
     ListView contactListView;
     Uri imageUri = Uri.parse("android.resource://com.example.timoc_000.contactmanager/drawable/no_user_logo.png");
     DatabaseHandler dbHandler;
+    // test comment for github
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
